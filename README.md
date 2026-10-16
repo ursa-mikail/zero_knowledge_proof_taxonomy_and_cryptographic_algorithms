@@ -1,4 +1,4 @@
-# Crypto family tree
+# Zero Knowledge Proof family tree
 
 Runnable, self-contained Python demos of the major "privacy / trust-minimization"
 cryptographic protocol families: zero-knowledge proofs, secret sharing,
